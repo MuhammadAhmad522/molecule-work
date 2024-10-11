@@ -13,8 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        - distro: rockylinux9
-        - distro: debian11
+        distro: [rockylinux9, debian11]
 
     steps:
       - name: Check out the codebase.
