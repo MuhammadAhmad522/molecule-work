@@ -1,3 +1,5 @@
+[![CI](https://github.com/MuhammadAhmad522/molecule-work/actions/workflows/ci.yml/badge.svg)](https://github.com/MuhammadAhmad522/molecule-work/actions/workflows/ci.yml)
+
 # Molecule Example for Ansible
 
 This directory contains an example Molecule configuration for an Ansible playbook that allows easy development and testing of the playbook.
